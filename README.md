@@ -16,4 +16,4 @@ sudo docker-compose build
 ```
 sudo docker-compose up
 ```
-Приложение находится по адресу http://0.0.0.0:8000/docs
+Для работы приложения необходимо перейти по адресу http://0.0.0.0:8000/docs
